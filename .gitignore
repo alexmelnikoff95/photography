@@ -2,3 +2,5 @@
 media/
 # База данных
 db.sqlite3
+
+README.md
