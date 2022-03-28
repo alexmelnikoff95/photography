@@ -1,6 +1,4 @@
 #папка с фото
-photo/media/
+media/
 # База данных
 db.sqlite3
-
-README.md
